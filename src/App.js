@@ -8,7 +8,7 @@ import VideoDetails from "./components/VideoDetails";
 class App extends React.Component {
   state = {
     videos: [],
-    selectedVideo: "",
+    selectedVideo: "Avengers",
   };
 
   onSelectVideo = (video) => {

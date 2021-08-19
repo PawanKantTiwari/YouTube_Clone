@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,IACI,oBAAqB,CACrB,UAAY,CACZ,UACJ","file":"main.57503834.chunk.css","sourcesContent":[".yt{\r\n    background-color: red;\r\n    color: white;\r\n    padding: 2%;\r\n}"]}

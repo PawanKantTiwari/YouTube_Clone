@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/YouTube_Lite/static/css/main.57503834.chunk.css",
+    "main.js": "/YouTube_Lite/static/js/main.55c1304b.chunk.js",
+    "main.js.map": "/YouTube_Lite/static/js/main.55c1304b.chunk.js.map",
+    "runtime-main.js": "/YouTube_Lite/static/js/runtime-main.5a933668.js",
+    "runtime-main.js.map": "/YouTube_Lite/static/js/runtime-main.5a933668.js.map",
+    "static/css/2.818011ed.chunk.css": "/YouTube_Lite/static/css/2.818011ed.chunk.css",
+    "static/js/2.499b66d6.chunk.js": "/YouTube_Lite/static/js/2.499b66d6.chunk.js",
+    "static/js/2.499b66d6.chunk.js.map": "/YouTube_Lite/static/js/2.499b66d6.chunk.js.map",
+    "static/js/3.8b206c11.chunk.js": "/YouTube_Lite/static/js/3.8b206c11.chunk.js",
+    "static/js/3.8b206c11.chunk.js.map": "/YouTube_Lite/static/js/3.8b206c11.chunk.js.map",
+    "index.html": "/YouTube_Lite/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/YouTube_Lite/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.57503834.chunk.css.map": "/YouTube_Lite/static/css/main.57503834.chunk.css.map",
+    "static/js/2.499b66d6.chunk.js.LICENSE.txt": "/YouTube_Lite/static/js/2.499b66d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a933668.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.499b66d6.chunk.js",
+    "static/css/main.57503834.chunk.css",
+    "static/js/main.55c1304b.chunk.js"
+  ]
+}
